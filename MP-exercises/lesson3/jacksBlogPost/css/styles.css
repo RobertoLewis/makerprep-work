@@ -1,0 +1,44 @@
+/*The blog post should have a header area, a nav bar area, a content area, and a footer area (contact info or something like that can go here). Each of those areas should be contained within its own <div> tag.
+
+The content area should have multiple header and paragraph tags. Add some styles for each tag type.
+
+Give each <div> its own id attribute ("header", "nav", "content" and "footer"), and style each a little. For example, they could each have a different background color.
+
+Add some generic <span> tags around bits of important text. Give each a class of "important", and style them so that information stands out! Maybe a yellow background, red text, a heaver font-weight, and a slightly larger font-size.
+
+Add some <span> tags around bits of un-important text. Give each a "nice-to-know" class, and style that text a bit lighter and smaller.*/
+
+* {
+    font-family: 'Amatic SC', cursive;
+}
+
+# header {
+  background-color: 
+  color
+
+}
+
+# nav {
+  background-color: firebrick;
+  color:
+
+}
+
+# content {
+  background-color: chocolate;
+
+}
+
+# footer {
+  background-color: darkolivegreen;
+
+}
+
+.important {
+
+}
+
+.nice-to-know {
+
+
+}
