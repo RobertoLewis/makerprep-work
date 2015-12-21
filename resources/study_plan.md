@@ -15,6 +15,7 @@
 * [Anki - add new terms](https://ankiweb.net/decks/)
 * [Nodeschool](http://nodeschool.io/)
 * [CodeSchool - JavaScript](https://www.codeschool.com/paths/javascript)
+* [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 
 Also:
 
