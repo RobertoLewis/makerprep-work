@@ -1,11 +1,29 @@
 
+* [MakerPrep Curriculum](https://github.com/MakerPrepLA/makerprepla)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
-* Codecademy - jQuery, JavaScript, Git, Command Line
-* LearnRx
-* video series
-* Higher Order Functions
-* CodeWars
-* Coderbyte
-* Free Code Camp
-* Anki - add new terms
-* Nodeschool
+* [Codecademy - jQuery, JavaScript, Git, Command Line](https://www.codecademy.com/learn)
+* [The JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+* [Understand JS Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+* [Understand JS Closures with Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+* [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+* [LearnRx](http://reactivex.io/learnrx/)
+* [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods)
+* [Higher Order Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+* [CodeWars](http://www.codewars.com/)
+* [Coderbyte](http://coderbyte.com/)
+* [Free Code Camp](http://www.freecodecamp.com/)
+* [Anki - add new terms](https://ankiweb.net/decks/)
+* [Nodeschool](http://nodeschool.io/)
+* [CodeSchool - JavaScript](https://www.codeschool.com/paths/javascript)
+
+Also:
+
+* [JS Bin](jsbin.com)
+* [CodeShare](https://codeshare.io/)
+* [BetterExplained Cheat Sheet](http://betterexplained.com/cheatsheet/)
+* [MDN - JavaScript Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
+* [JavaScript Standard Style](https://github.com/feross/standard)
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+* [Douglas Crockford's JavaScript](http://javascript.crockford.com/)
+* [52 Weeks of Code](http://www.dreamincode.net/forums/topic/148191-week-%231-challenge-jquery-effects/)
+* [Project Euler](https://projecteuler.net/)
