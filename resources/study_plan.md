@@ -44,3 +44,6 @@ Also:
 * [CodeShare](https://codeshare.io/)
 * [Vidinium.org - AI](http://vindinium.org/)
 * [MakerSquare Blog - JavaScript and John](https://javascriptjohn.wordpress.com/)
+
+Typing:
+* [Typing.com](https://www.typing.com)
