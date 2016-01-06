@@ -26,7 +26,7 @@ var map = function(collection, callback){
 };
 
 var squarer = function(number){
-  return number * number
+  return number * number;
 };
 
 var squaredArray = map(numbersR, Math.sqrt);
