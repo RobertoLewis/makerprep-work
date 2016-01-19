@@ -8,6 +8,7 @@
 * [LearnRx](http://reactivex.io/learnrx/)
 * [Nodeschool](http://nodeschool.io/)
 * [CodeSchool - JavaScript](https://www.codeschool.com/paths/javascript)
+* [Underscore](http://underscorejs.org/)
 * [BetterExplained Cheat Sheet](http://betterexplained.com/cheatsheet/)
 * [MDN - JavaScript Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
 * [JavaScript Standard Style](https://github.com/feross/standard)
@@ -35,6 +36,7 @@ Practice:
 * [Free Code Camp](http://www.freecodecamp.com/)
 * [52 Weeks of Code](http://www.dreamincode.net/forums/topic/148191-week-%231-challenge-jquery-effects/)
 * [Project Euler](https://projecteuler.net/)
+* [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
 
 
 Also:
@@ -44,7 +46,12 @@ Also:
 * [CodeShare](https://codeshare.io/)
 * [Vidinium.org - AI](http://vindinium.org/)
 * [MakerSquare Blog - JavaScript and John](https://javascriptjohn.wordpress.com/)
+* [Free JS Books](http://jsbooks.revolunet.com/)
 
 Typing:
 * [Typing.com](https://www.typing.com)
 * blahblahblah
+
+Ruby:
+* [AppAcademy Prepwork Guide](http://www.appacademy.io/assets/App_Academy_Prepwork_Studyguide.pdf)
+* [Dev Bootcamp Interview Prep](http://devbootcamp.com/interview-prep.pdf)
