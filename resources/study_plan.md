@@ -1,5 +1,6 @@
 
 * [MakerPrep Curriculum](https://github.com/MakerPrepLA/makerprepla)
+* [Codesmith Syllabus and Interview Prep](https://gallery.mailchimp.com/da60d9c5e75cbb19470ec4fa6/files/Codesmith_Syllabus.pdf)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
 * [Codecademy - jQuery, JavaScript, Git, Command Line](https://www.codecademy.com/learn)
 * [Understand JS Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
@@ -33,9 +34,13 @@ Practice:
 * [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 * [CodeWars](http://www.codewars.com/)
 * [Coderbyte](http://coderbyte.com/)
+* [CodeChef](https://www.codechef.com/)
+* [topcoder](https://www.topcoder.com/)
 * [Free Code Camp](http://www.freecodecamp.com/)
+* [Fight Code](http://fightcodegame.com/)
 * [52 Weeks of Code](http://www.dreamincode.net/forums/topic/148191-week-%231-challenge-jquery-effects/)
 * [Project Euler](https://projecteuler.net/)
+* [Toptal - JavaScript Interview Questions](http://www.toptal.com/javascript/interview-questions)
 * [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
 
 
@@ -50,6 +55,7 @@ Also:
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+* [Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
 
 Typing:
 * [Typing.com](https://www.typing.com)
