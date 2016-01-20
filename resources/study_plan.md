@@ -47,6 +47,9 @@ Also:
 * [Vidinium.org - AI](http://vindinium.org/)
 * [MakerSquare Blog - JavaScript and John](https://javascriptjohn.wordpress.com/)
 * [Free JS Books](http://jsbooks.revolunet.com/)
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
+* [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
 
 Typing:
 * [Typing.com](https://www.typing.com)
@@ -55,3 +58,4 @@ Typing:
 Ruby:
 * [AppAcademy Prepwork Guide](http://www.appacademy.io/assets/App_Academy_Prepwork_Studyguide.pdf)
 * [Dev Bootcamp Interview Prep](http://devbootcamp.com/interview-prep.pdf)
+* [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)
