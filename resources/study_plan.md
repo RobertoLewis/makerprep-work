@@ -3,6 +3,7 @@
 * [Codesmith Syllabus and Interview Prep](https://gallery.mailchimp.com/da60d9c5e75cbb19470ec4fa6/files/Codesmith_Syllabus.pdf)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
 * [Codecademy - jQuery, JavaScript, Git, Command Line](https://www.codecademy.com/learn)
+* [Coderbyte - Hack Reactor Prep](https://coderbyte.com/course/prepare-hack-reactor)
 * [Understand JS Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Understand JS Closures with Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 * [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
