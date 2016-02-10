@@ -1,8 +1,27 @@
+Typing:
+* [Typing.com](https://www.typing.com)
+* blahblahblah
 
+Command Line:
+* [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+
+Git:
+* [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git-tutorial)
+* [Codecademy:Git](https://www.codecademy.com/learn/learn-git)
+
+Regular Expressions:
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
+* [RegExr](http://regexr.com/)
+* [RegexOne](http://regexone.com/)
+* [Regex 101](https://regex101.com/)
+* [Coderbyte - Regex and String Methods](https://coderbyte.com/tutorial/javascript-string-methods-regular-expressions)
+
+
+JS:
 * [MakerPrep Curriculum](https://github.com/MakerPrepLA/makerprepla)
 * [Codesmith Syllabus and Interview Prep](https://gallery.mailchimp.com/da60d9c5e75cbb19470ec4fa6/files/Codesmith_Syllabus.pdf)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
-* [Codecademy - jQuery, JavaScript, Git, Command Line](https://www.codecademy.com/learn)
 * [Coderbyte - Hack Reactor Prep](https://coderbyte.com/course/prepare-hack-reactor)
 * [Understand JS Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Understand JS Closures with Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
@@ -10,6 +29,7 @@
 * [LearnRx](http://reactivex.io/learnrx/)
 * [Nodeschool](http://nodeschool.io/)
 * [CodeSchool - JavaScript](https://www.codeschool.com/paths/javascript)
+
 * [Underscore](http://underscorejs.org/)
 * [BetterExplained Cheat Sheet](http://betterexplained.com/cheatsheet/)
 * [MDN - JavaScript Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
@@ -30,14 +50,14 @@ Videos:
 * [Functors](https://youtu.be/DisD9ftUyCk)
 
 Practice:
-* [Anki - add new terms](https://ankiweb.net/decks/)
+
 * [The JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+* [Free Code Camp](http://www.freecodecamp.com/)
 * [HackerRank](https://www.hackerrank.com/domains/algorithms/warmup)
 * [CodeWars](http://www.codewars.com/)
 * [Coderbyte](http://coderbyte.com/)
 * [CodeChef](https://www.codechef.com/)
 * [topcoder](https://www.topcoder.com/)
-* [Free Code Camp](http://www.freecodecamp.com/)
 * [Fight Code](http://fightcodegame.com/)
 * [52 Weeks of Code](http://www.dreamincode.net/forums/topic/148191-week-%231-challenge-jquery-effects/)
 * [Project Euler](https://projecteuler.net/)
@@ -49,18 +69,19 @@ Also:
 * [HTML Cheat Sheet](http://makerprepla.divshot.io/pages/appendages/html5-cheat-sheet.pdf)
 * [CSS Cheat Sheet](http://makerprepla.divshot.io/pages/appendages/css3-cheat-sheet.pdf)
 * [JS Bin](jsbin.com)
+* [Anki - add new terms](https://ankiweb.net/decks/)
 * [CodeShare](https://codeshare.io/)
 * [Vidinium.org - AI](http://vindinium.org/)
 * [MakerSquare Blog - JavaScript and John](https://javascriptjohn.wordpress.com/)
 * [Free JS Books](http://jsbooks.revolunet.com/)
-* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
-* [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Learn Enough Text Editor To Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+* [Codecademy: APIs](https://www.codecademy.com/apis)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+* [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 * [Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
 
-Typing:
-* [Typing.com](https://www.typing.com)
-* blahblahblah
+
+
 
 Ruby:
 * [AppAcademy Prepwork Guide](http://www.appacademy.io/assets/App_Academy_Prepwork_Studyguide.pdf)
