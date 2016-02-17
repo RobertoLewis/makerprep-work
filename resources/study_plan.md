@@ -16,6 +16,7 @@ Regular Expressions:
 * [RegexOne](http://regexone.com/)
 * [Regex 101](https://regex101.com/)
 * [Coderbyte - Regex and String Methods](https://coderbyte.com/tutorial/javascript-string-methods-regular-expressions)
+* [Code School: Breaking The Ice with Regular Expressions](http://courseware.codeschool.com/breaking-the-ice-with-regular-expressions/slides/CodeSchool-BreakingTheIceWithRegularExpressions-Full.pdf)
 
 
 JS:
@@ -37,6 +38,8 @@ JS:
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Douglas Crockford's JavaScript](http://javascript.crockford.com/)
 * [Cheatsheet JS Debug](https://www.scribd.com/doc/290695265/Cheatsheet-JS-Debug)
+* [
+The Javascript Guide to Objects, Functions, Scope, Prototypes and Closures](http://hangar.runway7.net/javascript/guide)
 
 Videos:
 
