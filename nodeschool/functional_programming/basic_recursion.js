@@ -4,6 +4,18 @@
 //
 // For simplicity, your implementation of reduce need not replicate the behaviour of a reduce missing an initial value. You may assume the initial value will always be supplied.
 
+function reduce(arr, fn, initial) {
+    //if there are no items in the array remaining, return the initial value
+      if (!arr.length){return initial;}
+      // 'next' is the first item in the array
+      var next = arr[0];
+      //combining values with "initial" as the accumulator
+      initial = fn(initial, next);
+      //slice the rest of the array into "remainder"
+      var remainder = arr.slice(1);
+      //call reduce again with "remainder" as the new array.
+      return reduce(remainder, fn, initial);
 
+    }
 
     module.exports = reduce;
