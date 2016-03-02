@@ -1,6 +1,11 @@
+Coursework:
+* [Pre-work](http://bookstrap.makersquare.com/)
+* [Student wiki](wiki.makersquare.com)
+* [Admitted Students FAQ](admittedfaq.makersquare.com)
+
 Typing:
 * [Typing.com](https://www.typing.com)
-* blahblahblah
+
 
 Command Line:
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -20,6 +25,7 @@ Regular Expressions:
 
 
 JS:
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [MakerPrep Curriculum](https://github.com/MakerPrepLA/makerprepla)
 * [Codesmith Syllabus and Interview Prep](https://gallery.mailchimp.com/da60d9c5e75cbb19470ec4fa6/files/Codesmith_Syllabus.pdf)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
@@ -30,7 +36,7 @@ JS:
 * [LearnRx](http://reactivex.io/learnrx/)
 * [Nodeschool](http://nodeschool.io/)
 * [CodeSchool - JavaScript](https://www.codeschool.com/paths/javascript)
-
+* [Superhero.js](http://superherojs.com/)
 * [Underscore](http://underscorejs.org/)
 * [BetterExplained Cheat Sheet](http://betterexplained.com/cheatsheet/)
 * [MDN - JavaScript Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
@@ -82,6 +88,7 @@ Also:
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
 * [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 * [Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
+* [Basecamp: Summer Internship](https://basecamp.com/about/internships)
 
 
 
