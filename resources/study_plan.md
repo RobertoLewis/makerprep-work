@@ -1,7 +1,22 @@
-Coursework:
-* [Pre-work](http://bookstrap.makersquare.com/)
+
 * [Student wiki](wiki.makersquare.com)
 * [Admitted Students FAQ](admittedfaq.makersquare.com)
+
+
+Coursework:
+* [Pre-work](http://bookstrap.makersquare.com/)
+
+Repositories:
+* [JavaScript Koans](https://github.com/makersquare/MKS-LA-javascript-koans)
+* [Underbar](https://github.com/makersquare/MKS-LA-underbar)
+* [Twittler](https://github.com/makersquare/MKS-LA-Twittler)
+* [Recursion](https://github.com/makersquare/MKSLA-Recursion)
+
+Required Accounts:
+* [LinkedIn](https://www.linkedin.com/)
+* [Hacker News](https://news.ycombinator.com/news)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Quora](https://www.quora.com/)
 
 Typing:
 * [Typing.com](https://www.typing.com)
@@ -78,6 +93,7 @@ Also:
 * [HTML Cheat Sheet](http://makerprepla.divshot.io/pages/appendages/html5-cheat-sheet.pdf)
 * [CSS Cheat Sheet](http://makerprepla.divshot.io/pages/appendages/css3-cheat-sheet.pdf)
 * [JS Bin](jsbin.com)
+* [JSParse](http://jsparse.meteor.com/)
 * [Anki - add new terms](https://ankiweb.net/decks/)
 * [CodeShare](https://codeshare.io/)
 * [Vidinium.org - AI](http://vindinium.org/)
